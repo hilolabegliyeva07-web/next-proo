@@ -6,6 +6,7 @@ settings:
 
 importers:
 
+<<<<<<< HEAD
   .:
     dependencies:
       '@base-ui/react':
@@ -6607,3 +6608,6 @@ snapshots:
       '@types/react': 19.3.0
       react: 19.3.0
       use-sync-external-store: 1.7.0(react@19.3.0)
+=======
+  .: {}
+>>>>>>> d2a733e3e2ac68bfd3d873a30c044750589378f4

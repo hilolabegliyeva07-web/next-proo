@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "next-pro",
   "version": "0.1.0",
   "private": true,
@@ -38,3 +39,16 @@
     "typescript": "^5"
   }
 }
+=======
+  "name": "untitled folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+>>>>>>> d2a733e3e2ac68bfd3d873a30c044750589378f4
